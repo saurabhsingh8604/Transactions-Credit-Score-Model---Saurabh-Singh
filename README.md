@@ -2,10 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+<img width="1440" alt="Screenshot 2023-06-05 at 2 04 27 PM" src="https://github.com/saurabhsingh8604/Transactions-Credit-Score-Model---Saurabh-Singh/assets/62984735/d00d75da-1d9f-46c8-b39c-526d29fa8e2b">
+<img width="1440" alt="Screenshot 2023-06-05 at 2 04 42 PM" src="https://github.com/saurabhsingh8604/Transactions-Credit-Score-Model---Saurabh-Singh/assets/62984735/8638f7bf-8392-4713-ab34-1bd7cb45caa9">
+<img width="1440" alt="Screenshot 2023-06-05 at 2 07 53 PM" src="https://github.com/saurabhsingh8604/Transactions-Credit-Score-Model---Saurabh-Singh/assets/62984735/95d9dc5f-e1b8-400f-9fcd-93c6dac5ba2f">
+<img width="1440" alt="Screenshot 2023-06-05 at 2 07 57 PM" src="https://github.com/saurabhsingh8604/Transactions-Credit-Score-Model---Saurabh-Singh/assets/62984735/7c621b7b-7fb1-41cf-bfe2-c17bb7762719">
+<img width="1440" alt="Screenshot 2023-06-05 at 2 08 04 PM" src="https://github.com/saurabhsingh8604/Transactions-Credit-Score-Model---Saurabh-Singh/assets/62984735/b2214e5f-ecab-40de-9273-3d49abf42e5a">
+<img width="1440" alt="Screenshot 2023-06-05 at 2 08 09 PM" src="https://github.com/saurabhsingh8604/Transactions-Credit-Score-Model---Saurabh-Singh/assets/62984735/4fc77047-913c-45c1-9187-3eb38403bf54">
 ## Available Scripts
 
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
